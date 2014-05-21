@@ -1,0 +1,31 @@
+{
+  "name": "angular-gson-express-dyngodb",
+  "version": "0.1.0",
+  "description": "Demonstrate angularjs + gson + express + dyngodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aaaristo/angular-gson-express.git"
+  },
+  "keywords": [
+    "angularjs",
+    "expressjd",
+    "gson",
+    "circular"
+  ],
+  "author": "aaaristo",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/aaaristo/angular-gson-express/issues"
+  },
+  "homepage": "https://github.com/aaaristo/angular-gson-express",
+  "dependencies": {
+    "body-parser": "^1.2.0",
+    "dyngodb2": "^0.1.9",
+    "express": "^4.2.0",
+    "express-gson": "^0.1.0"
+  }
+}

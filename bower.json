@@ -1,0 +1,29 @@
+{
+  "name": "angular-gson-express",
+  "version": "0.1.0",
+  "homepage": "https://github.com/aaaristo/angular-gson-express",
+  "authors": [
+    "aaaristo"
+  ],
+  "description": "Demonstrate angularjs + gson + express",
+  "main": "app.js",
+  "keywords": [
+    "angularjs",
+    "expressjs",
+    "gson",
+    "circular"
+  ],
+  "license": "Apache2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "angular-gson": "*"
+  }
+}
