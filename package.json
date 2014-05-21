@@ -26,6 +26,7 @@
     "body-parser": "^1.2.0",
     "dyngodb2": "^0.1.9",
     "express": "^4.2.0",
+    "express-dyngodb": "^0.1.0",
     "express-gson": "^0.1.0"
   }
 }
