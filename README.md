@@ -14,7 +14,7 @@ $ git clone git@github.com:aaaristo/angular-gson-express-dyngodb.git
 ```sh
 $ cd angular-gson-express-dyngodb
 $ npm install
-$ npm install -g dyngodb2
+$ sudo npm install -g dyngodb2
 $ bower install
 $ export AWS_ACCESS_KEY_ID=......
 $ export AWS_SECRET_ACCESS_KEY=......
