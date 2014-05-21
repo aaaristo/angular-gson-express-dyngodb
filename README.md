@@ -14,6 +14,7 @@ $ git clone git@github.com:aaaristo/angular-gson-express-dyngodb.git
 ```sh
 $ cd angular-gson-express-dyngodb
 $ npm install
+$ npm install -g dyngodb2
 $ bower install
 $ export AWS_ACCESS_KEY_ID=......
 $ export AWS_SECRET_ACCESS_KEY=......
@@ -25,3 +26,11 @@ $ node app.js [--local]
 ```
 
 point your browser to *http://localhost:8080/*, openup the console and refresh...
+
+## Stack
+
+* [AngularJS](https://angularjs.org/)
+* [GSON](https://github.com/aaaristo/gson)
+* [express](http://expressjs.com/)
+* [dyngodb2](https://github.com/aaaristo/dyngodb)
+* [AWS DynamoDB](https://aws.amazon.com/dynamodb/)
