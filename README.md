@@ -19,7 +19,7 @@ $ export AWS_REGION=eu-west-1
 $ dyngodb2
 > db.createCollection('test')
 > exit
-$ node app.js
+$ node app.js [--local]
 ```
 
 point your browser to *http://localhost:8080/*, openup the console and refresh...
